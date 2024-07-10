@@ -5,10 +5,3 @@ Data Scientist, AI/ML Engineer and AI Prompt Engineer with 4+ years of professio
 Experience building end-to-end Machine Learning and Deep Learning solutions for associated use cases, Generative AI models deploying Retrieval Augmented Generation (RAG) and all the modern stack and harnessing statistical inference to weave data into a story.
 
 A life-long learner who loves to take a deep dive into data, learn its intricacies and unfold the story it has to tell. A strong academic background with three Masters' degrees (more to come!), multiple certifications in Full Stack Data Science, Machine Learning, Generative AI, Prompt Engineering and associated domains and a strong base in Statistics, which indeed sits at the heart of machine learning.
-
-<a href="https://github.com/VaradDeshmukh97/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VaradDeshmukh97&show_icons=true">
-</a>
-<a href="https://github.com/VaradDeshmukh97/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradDeshmukh97&layout=compact">
-</a>
