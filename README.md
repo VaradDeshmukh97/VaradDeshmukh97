@@ -1,4 +1,4 @@
-### 🚀 Varad Deshmukh | AI/ML Engineer | Generative AI Lead | Equity Research Analyst  
+### 🚀 Senior AI/ML Engineer | Generative AI Lead | Senior Data Science Manager | Senior Equity Research Analyst
 
 I'm a **Senior Data Scientist, AI/ML Engineer, and Generative AI Lead** with **4+ years of professional experience** in designing and deploying **end-to-end AI-driven solutions** across diverse industries, including **real estate, healthcare, and education**.  
 
