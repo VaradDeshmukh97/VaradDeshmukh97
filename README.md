@@ -1,7 +1,26 @@
-## About Me! 👋
+### 🚀 Varad Deshmukh | AI/ML Engineer | Generative AI Lead | Equity Research Analyst  
 
-Senior Data Scientist, Senior AI/ML Engineer and Generative AI Lead with 4+ years of professional experience in modelling end-to-end data-driven and AI/ML-Powered business solutions spanning a wide range of domains including real estate, healthcare and education. Currently working as a Senior AI/ML Engineer, Generative AI Lead and Senior Equity Research Analyst at RCK Analytics, building and delivering innovative, cutting-edge AI and Machine Learning solutions for multiple use-cases spanning Investment Research, Investment Banking, PE/VC Research, etc.
+I'm a **Senior Data Scientist, AI/ML Engineer, and Generative AI Lead** with **4+ years of professional experience** in designing and deploying **end-to-end AI-driven solutions** across diverse industries, including **real estate, healthcare, and education**.  
 
-Led a Data Science team responsible for effectively transforming data into business insights and enabling businesses to harness the power of data. Completed client projects under hard-coded deadlines and effectively communicated the results to stakeholders. Experience building end-to-end Machine Learning and Deep Learning solutions for associated use cases, Generative AI models deploying Retrieval Augmented Generation (RAG) and all the modern stack and harnessing statistical inference to weave data into a story.
+Currently, I work as a **Senior AI/ML Engineer, Generative AI Lead, and Senior Equity Research Analyst** at **RCK Analytics**, where I specialize in building cutting-edge **AI and Machine Learning solutions** for various financial use cases, including:  
+📈 **Investment Research**  
+🏦 **Investment Banking**  
+📊 **Private Equity (PE) / Venture Capital (VC) Research**  
 
-A life-long learner who loves to take a deep dive into data, learn its intricacies and unfold the story it has to tell. A strong academic background with three Master' degrees (more to come!), multiple certifications in Full Stack Data Science, Machine Learning, Generative AI, Prompt Engineering and associated domains and a strong base in Statistics, which indeed sits at the heart of machine learning.
+### 🛠️ What I Do  
+✔ **Develop AI-powered investment research models** leveraging NLP, ML, and Generative AI  
+✔ **Deploy state-of-the-art Generative AI solutions**, including **Retrieval-Augmented Generation (RAG)** for financial analysis  
+✔ **Lead Data Science teams** to transform raw data into actionable business insights  
+✔ **Build end-to-end ML/DL pipelines**, from data ingestion to model deployment  
+✔ **Communicate insights effectively** to key stakeholders and decision-makers  
+
+### 📚 Academic & Professional Background  
+I'm a **lifelong learner** with a strong foundation in **Statistics and Machine Learning**, which are at the heart of AI-driven decision-making. My academic journey includes:  
+🎓 **Three Master's Degrees** (and counting!)  
+🎓 Certifications in **Full Stack Data Science, Machine Learning, Generative AI, and Prompt Engineering**  
+
+### 🔥 Passion & Vision  
+I am deeply passionate about **exploring data**, uncovering its hidden patterns, and using AI to **drive intelligent investment decisions**. I thrive on challenges, whether it’s optimizing financial models, building **AI-powered analytics platforms**, or **harnessing statistical inference** to tell data-driven stories.  
+
+### 🌐 Connect With Me  
+💼 [LinkedIn](https://www.linkedin.com/in/varaddeshmukh97/) | 🏗 [Email](mailto:varad.deshmukh97@gmail.com)  
