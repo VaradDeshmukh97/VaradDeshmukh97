@@ -1,159 +1,46 @@
-<div align="center">
+# Varad Deshmukh
 
-# 👋 Hi, I'm Varad Deshmukh
+**Lead, Technology, AI Strategy, and Data Governance | RCK Analytics Private Limited**
 
-### 🚀 AI & Technology Strategy | 💹 Financial Research Intelligence | 🧠 Generative AI | 🛡️ Data Governance
+I lead technology, data science and IT at RCK Analytics, a financial research and analytics firm supporting investment research, investment banking and private capital teams. My role covers both direction and execution: setting technology priorities, guiding architecture, building data and AI-enabled systems, and overseeing the infrastructure and operating practices required to run them reliably. I stay close to the engineering work and collaborate with research and business teams to translate real financial workflows into maintainable software.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=750&lines=Building+AI-native+financial+research+systems;Leading+AI%2C+Technology+Strategy+%26+Data+Governance;Turning+Financial+Data+into+Intelligent+Workflows" alt="Typing SVG" />
+## Areas of Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varad%20Deshmukh-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/varaddeshmukh97/)
-[![GitHub](https://img.shields.io/badge/GitHub-VaradDeshmukh97-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VaradDeshmukh97)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:varad.deshmukh97@gmail.com)
+**Technology Strategy & Engineering Leadership**: Technology architecture, engineering priorities, build-versus-buy decisions, software development, infrastructure and IT operations.
 
-</div>
+**AI & Machine Learning**: LLM applications, retrieval-augmented generation, document intelligence, information extraction, machine learning and workflow automation.
 
----
+**Data Engineering & Architecture**: Data pipelines, ETL processes, APIs, database design, data integration, data quality and point-in-time financial information.
 
-## 🧭 About Me
+**Financial Technology & Analytics**: Research automation, financial data systems, company intelligence, investment screening, analytical platforms and decision-support tools.
 
-I'm an **AI/ML Engineer, Data Scientist, and Technology Strategy leader** focused on building the technology infrastructure behind **modern financial research**.
+**Data Governance & Controls**: Data standardization, provenance, lineage, validation, access controls and responsible use of data.
 
-At **RCK Analytics**, I work across **AI, Generative AI, technology strategy, and data governance**, helping transform complex research workflows into scalable, intelligent systems.
+## Engineering Approach
 
-My domain focus spans:
+I focus on building systems that solve identifiable operational problems and can be maintained beyond the initial implementation. Some principles guide my approach:
 
-📈 **Equity Research** · 🏦 **Investment Banking** · 💼 **PE/VC** · 📊 **Investment Research**
+- Use deterministic code for financial calculations, transformations and business rules.
+- Apply AI where it adds value to unstructured information, research and knowledge-intensive tasks.
+- Preserve source context so that important outputs can be checked and reproduced.
+- Build validation, exception handling and human review into workflows where they are necessary.
+- Treat deployment, monitoring, security and maintainability as part of engineering—not as tasks left until the end.
 
-I sit at the intersection of:
+## Current Areas of Interest
 
-**AI × Financial Data × Research Workflows × Technology Strategy**
+- AI-enabled financial research and analytics
+- Agentic systems and workflow orchestration
+- Financial data engineering and knowledge systems
+- Enterprise AI architecture and evaluation
+- Research automation and intelligent document processing
+- Data governance and point-in-time financial intelligence
+- Software engineering, cloud infrastructure and DevOps
 
----
+## Public Work
 
-## ⚡ What I Build
+Much of my current work is developed for internal teams or client engagements and is not published publicly. The repositories here represent selected projects and technical explorations that I can share, rather than the full scope of my day-to-day work. One example is an earlier [RAG application built with LlamaIndex](https://github.com/VaradDeshmukh97/rag-application-with-llamaindex), exploring document retrieval and locally hosted language models for financial research.
 
-| 🧠 AI & GenAI               | 💹 Financial Intelligence      |
-| --------------------------- | ------------------------------ |
-| LLM Applications            | Equity Research Systems        |
-| RAG & Knowledge Systems     | Earnings Intelligence          |
-| AI Agents                   | Company Intelligence           |
-| NLP & Document Intelligence | Quantitative Scorecards        |
-| AI Evaluation               | Investment Research Automation |
+## Connect
 
-| 🏗️ Technology Strategy | 🛡️ Data Governance          |
-| ----------------------- | ---------------------------- |
-| AI Architecture         | Financial Data Architecture  |
-| Research Platforms      | Data Quality                 |
-| Workflow Automation     | Data Lineage                 |
-| Build vs. Buy Strategy  | Standardization & Taxonomies |
-| AI Product Strategy     | Research Data Governance     |
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,postgres,mysql,docker,aws,git,github,linux" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20RAG%20%7C%20Agents-1565C0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Financial%20AI-Research%20%7C%20Analytics%20%7C%20Intelligence-0B8043?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data-ETL%20%7C%20Governance%20%7C%20Architecture-5E35B1?style=for-the-badge" />
-
-</div>
-
----
-
-## 🔬 Selected Work
-
-### 🤖 Financial RAG & LLM Systems
-
-Building LLM-powered systems that combine **financial data, proprietary research, retrieval, and domain-specific reasoning** to create more reliable research workflows.
-
-### 📊 Research Intelligence
-
-Developing systems for **earnings, company intelligence, thematic research, peer analytics, quantitative scoring, and automated research generation**.
-
-### 🏗️ AI & Data Infrastructure
-
-Designing the pipelines connecting:
-
-**Data → Intelligence → AI → Analyst Workflow → Decision**
-
-### 🛡️ Data Governance
-
-Building the foundations required for trustworthy AI in financial research:
-
-**Data Quality · Provenance · Standardization · Lineage · Validation · Point-in-Time Intelligence**
-
----
-
-## 💡 My Perspective
-
-> **AI is the interface. Data and workflow are the moat.**
-
-The most valuable enterprise AI systems are not simply the ones with the best models.
-
-They are the ones that combine:
-
-**Proprietary Data + Domain Expertise + Intelligent Workflows + Governance + Human Judgment**
-
-That is where I focus.
-
----
-
-## 📌 Featured Project
-
-<div align="center">
-
-[![RAG Application](https://github-readme-stats.vercel.app/api/pin/?username=VaradDeshmukh97\&repo=rag-application-with-llamaindex\&theme=default\&hide_border=true)](https://github.com/VaradDeshmukh97/rag-application-with-llamaindex)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VaradDeshmukh97&show_icons=true&hide_border=true&rank_icon=github&theme=default" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradDeshmukh97&layout=compact&hide_border=true&theme=default" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=VaradDeshmukh97&theme=default&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Current Interests
-
-`AI-Native Financial Research`
-
-`Agentic AI`
-
-`Financial Knowledge Systems`
-
-`Research Data Governance`
-
-`Point-in-Time Financial Intelligence`
-
-`AI-Powered Investment Workflows`
-
-`Technology Strategy`
-
----
-
-<div align="center">
-
-### 🚀 Building at the intersection of AI, data & financial intelligence.
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=VaradDeshmukh97\&color=1565C0\&style=flat-square\&label=Profile+Views)
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/varaddeshmukh97/)
+- [RCK Analytics](https://rckanalytics.com/)
