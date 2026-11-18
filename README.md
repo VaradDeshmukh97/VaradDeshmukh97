@@ -38,7 +38,13 @@ I focus on building systems that solve identifiable operational problems and can
 
 ## Public Work
 
-Much of my current work is developed for internal teams or client engagements and is not published publicly. The repositories here represent selected projects and technical explorations that I can share, rather than the full scope of my day-to-day work. One example is an earlier [RAG application built with LlamaIndex](https://github.com/VaradDeshmukh97/rag-application-with-llamaindex), exploring document retrieval and locally hosted language models for financial research.
+Much of my current work is developed for internal teams or client engagements and is not published publicly. The repositories here represent selected projects and technical explorations that I can share, rather than the full scope of my day-to-day work. The following repositories are portfolio demonstrations using synthetic data. They illustrate engineering approaches relevant to financial research and investment banking; indicative of the work that we do at RCK Analytics.
+
+| Project | Focus |
+|---|---|
+| [IB Target Intelligence](https://github.com/VaradDeshmukh97/ib-target-intelligence) | Mandate-driven company screening, explainable scoring and a source-verifiable contact-research workflow. |
+| [Financial Data Pipeline](https://github.com/VaradDeshmukh97/financial-data-pipeline) | Financial data ingestion, validation, provenance and point-in-time snapshots. |
+| [Financial Research RAG](https://github.com/VaradDeshmukh97/financial-research-rag) | Source-aware document retrieval with optional local LLM generation. |
 
 ## Connect
 
